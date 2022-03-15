@@ -7,10 +7,10 @@
 </div>
 <div align="center">
 	<a href="https://github.com/lucas100m">
-		<img height="180px" src="https://github-readme-stats.vercel.app/api?username=lucas100m&show_icons=true&theme=dark" />
+		<img height="180px" src="https://github-readme-stats.vercel.app/api?username=lucasvssouza&show_icons=true&theme=dark" />
 	</a>
 	<a href="https://github.com/lucas100m">
-		<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas100m&layout=compact&theme=dark" />
+		<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvssouza&layout=compact&theme=dark" />
 	</a>
 </div>
 <div>
