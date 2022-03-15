@@ -5,7 +5,6 @@
 <label>Espero que aproveite e curta meus projetos</label>
 <hr />
 </div>
-
 <div align="center">
 	<a href="https://github.com/lucas100m">
 		<img height="180px" src="https://github-readme-stats.vercel.app/api?username=lucas100m&show_icons=true&theme=dark" />
@@ -14,7 +13,6 @@
 		<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas100m&layout=compact&theme=dark" />
 	</a>
 </div>
-
 <div>
 		<hr />
 		<a href="https://www.linkedin.com/in/lucas-vssouza/">
@@ -48,4 +46,3 @@
 			<img align="right" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
 		</a>
 </div>
-	
