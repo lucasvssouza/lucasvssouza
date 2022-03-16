@@ -6,10 +6,10 @@
 <hr />
 </div>
 <div align="center">
-	<a href="https://github.com/lucas100m">
+	<a href="https://github.com/lucasvssouza">
 		<img height="180px" src="https://github-readme-stats.vercel.app/api?username=lucasvssouza&show_icons=true&theme=dark" />
 	</a>
-	<a href="https://github.com/lucas100m">
+	<a href="https://github.com/lucasvssouza">
 		<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvssouza&layout=compact&theme=dark" />
 	</a>
 </div>
@@ -27,10 +27,10 @@
 		<a href="https://www.typescriptlang.org">
 			<img align="right" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 		</a>
-		<a href="https://github.com/lucas100m">
+		<a href="https://github.com/lucasvssouza">
 			<img align="right" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 		</a>
-		<a href="https://github.com/lucas100m">
+		<a href="https://github.com/lucasvssouza">
 			<img align="right" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 		</a>
 		<a href="https://www.php.net">
