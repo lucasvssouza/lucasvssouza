@@ -21,10 +21,10 @@
 		<a href="mailto:lucas_vss@hotmail.com">
 			<img align="left" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 		</a>
-		<a href="https://www.javascript.com">
+		<a href="https://github.com/lucasvssouza">
 			<img align="right" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 		</a>
-		<a href="https://www.typescriptlang.org">
+		<a href="https://github.com/lucasvssouza">
 			<img align="right" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 		</a>
 		<a href="https://github.com/lucasvssouza">
@@ -33,16 +33,16 @@
 		<a href="https://github.com/lucasvssouza">
 			<img align="right" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 		</a>
-		<a href="https://www.php.net">
+		<a href="https://github.com/lucasvssouza">
 			<img align="right" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 		</a>
-		<a href="https://reactjs.org">
+		<a href="https://github.com/lucasvssouza">
 			<img align="right" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 		</a>
-		<a href="https://nodejs.org/en/">
+		<a href="https://github.com/lucasvssouza">
 			<img align="right" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 		</a>
-		<a href="https://getbootstrap.com">
+		<a href="https://github.com/lucasvssouza">
 			<img align="right" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
 		</a>
 </div>
