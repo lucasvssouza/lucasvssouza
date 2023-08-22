@@ -1,6 +1,6 @@
 <div>
 <h1>Seja bem-vindo ao meu perfil! 😄</h1>
-<label>Olá, me chamo Lucas. Tenho 24 anos e sou progamador a pelo menos 3 anos</label>
+<label>Olá, me chamo Lucas. Tenho 24 anos e sou progamador a pelo menos 3 anos (Profissionalmente)</label>
 	
 <label>Espero que aproveite e curta meus projetos</label>
 <hr />
